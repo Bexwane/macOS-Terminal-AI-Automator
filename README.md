@@ -21,6 +21,12 @@ git clone https://github.com/YOUR_USERNAME/macOS-Terminal-AI-Automator.git
 cd macOS-Terminal-AI-Automator
 chmod +x scripts/*.py    # Make scripts executable
 
+or if you're confused, just simply put the scripts (ag.py and ai.py) in your home folder ( for example Users/davidpearson/ )
+
+ and run these commands:
+ 
+chmod +x ~/ai.py
+chmod +x ~/ag.py
 
 ⸻
 
