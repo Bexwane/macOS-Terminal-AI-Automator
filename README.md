@@ -8,14 +8,14 @@ No more memorizing commands – just tell the AI what you need.
 
 ⸻
 
-**✨ Features**
+**Features**
 	•	AI in your Terminal – Ask for commands, snippets, or explanations instantly.
 	•	Automation on demand – One-liners to handle repetitive tasks.
 	•	Lightweight & Fast – No extra setup beyond Python.
 
 ⸻
 
-**⚡ Install**
+**Install**
 
 git clone https://github.com/YOUR_USERNAME/macOS-Terminal-AI-Automator.git
 cd macOS-Terminal-AI-Automator
@@ -24,7 +24,7 @@ chmod +x scripts/*.py    # Make scripts executable
 
 ⸻
 
-**▶️ Usage**
+**Usage**
 
 Run AI assistant:
 
@@ -67,7 +67,7 @@ ag "Zip all images in Pictures"
 
 ⸻
 
-🧠 When Prompted
+When Prompted
 
 Sometimes the tool will ask:
 
