@@ -28,7 +28,47 @@ or if you're confused, just simply put the scripts (ag.py and ai.py) in your hom
 chmod +x ~/ai.py
 chmod +x ~/ag.py
 
+Here’s the full text for the updated part of your README (Requirements + API Key Setup + Install Instructions):
+
 ⸻
+
+🛠 Requirements
+	•	macOS
+	•	Python 3.x
+	•	Groq API Key (Free) → Get yours here
+	•	Internet connection
+
+⸻
+
+🔑 Setting Up Groq API Key
+
+To use the AI features, you need a Groq API key:
+	Sign up and get your API key → [Groq Console](https://console.groq.com/keys)
+	Open your shell config file:
+
+nano ~/.zshrc
+
+
+	Add this line (replace YOUR_KEY with your actual key):
+
+export GROQ_API_KEY="YOUR_KEY"
+
+
+	Save and reload your shell:
+
+source ~/.zshrc
+
+
+
+✅ Now the scripts can access your API key automatically.
+
+⸻
+
+**📦 Install Requirements**
+
+Ensure Python is installed:
+
+brew install python
 
 **Usage**
 
